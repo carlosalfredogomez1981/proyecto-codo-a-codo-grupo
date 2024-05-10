@@ -1,0 +1,8 @@
+body {
+  
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to top, #c2c1d7 0%, #89ba8e 52%, #8989ba 100%);
+    background-blend-mode: multiply,multiply;
+    margin: 0;
+    padding: 0;
+  }

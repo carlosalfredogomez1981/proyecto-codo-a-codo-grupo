@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
     form.addEventListener('submit', function(event) {
       event.preventDefault(); //quitar por defecto del formulario 
-      
+      window.location.href = '/index.html'
+
   
       // tomar los datos del formulario
       const username = document.getElementById('username').value;
